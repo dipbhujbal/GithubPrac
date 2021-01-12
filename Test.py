@@ -1,1 +1,1 @@
-print("Hello this is first try of github")
+print("Hii This is my first git repo")
